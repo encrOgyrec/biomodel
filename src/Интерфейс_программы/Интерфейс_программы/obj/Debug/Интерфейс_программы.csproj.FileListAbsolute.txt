@@ -1,0 +1,10 @@
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\bin\Debug\Интерфейс_программы.exe.config
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\bin\Debug\Интерфейс_программы.exe
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\bin\Debug\Интерфейс_программы.pdb
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\obj\Debug\Интерфейс_программы.csproj.AssemblyReference.cache
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\obj\Debug\Интерфейс_программы.Form1.resources
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\obj\Debug\Интерфейс_программы.Properties.Resources.resources
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\obj\Debug\Интерфейс_программы.csproj.GenerateResource.cache
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\obj\Debug\Интерфейс_программы.csproj.CoreCompileInputs.cache
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\obj\Debug\Интерфейс_программы.exe
+C:\Users\tnemr\Desktop\ИСРПО\Интерфейс_программы\Интерфейс_программы\obj\Debug\Интерфейс_программы.pdb
